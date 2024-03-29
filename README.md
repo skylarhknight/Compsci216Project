@@ -1,4 +1,4 @@
-# The Likelihood of Car Accidents
+# Predicting the Likelihood of Car Accidents using Statistical Models
 *Compsci 216 | Spring 2024*
 
 Skylar Knight (shk30), Nisha Jakkinpali (npj3), Divine Ebisike (de90), 
